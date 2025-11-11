@@ -74,7 +74,7 @@ Designing and deploying robust and scalable APIs:
 
 ### 🤝 Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%83n-tu%E1%BA%A5n-%C4%91%E1%BA%A1t-682541323)  
+* [LinkedIn]([https://www.linkedin.com/in/nguy%E1%BB%83n-tu%E1%BA%A5n-%C4%91%E1%BA%A1t-682541323](https://www.linkedin.com/in/nguy%E1%BB%85n-tu%E1%BA%A5n-%C4%91%E1%BA%A1t-682541323/))  
 * [Facebook](https://www.facebook.com/nguyen.tuan.at.704139)
 
 <!--
